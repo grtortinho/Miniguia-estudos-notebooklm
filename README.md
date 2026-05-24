@@ -1,5 +1,5 @@
 # 📊 O Endividamento das Famílias Brasileiras e a Interpretação de Dados via Inteligência Artificial
-
+![NotebookLM](img/Gemini_Generated_Image_jrmcngjrmcngjrmc.png)
 ## 🎯 Motivação da Escolha do Tema
 
 Sempre tive interesse em analisar tabelas de jogos de futebol ⚽ para entender quais resultados eram necessários para que meu time pudesse conquistar um campeonato. Além disso, também gosto de analisar resultados políticos 🗳️, observando como ocorre a distribuição de votos entre os candidatos.
@@ -91,6 +91,19 @@ Após os testes, as respostas serão analisadas tanto do ponto de vista do tema 
 | 3 | Impacto da Educação Financeira no Comportamento Econômico das Famílias Brasileiras | Artigo científico | [acessar](https://www.revistas.fucamp.edu.br/index.php/getec/article/view/4191) |
 | 4 | Gasto e Consumo das Famílias Brasileiras Contemporâneas – Volume 2 | Livro / IPEA | [acessar](https://repositorio.ipea.gov.br/entities/book/0d9ffcd7-f0a5-4aa3-b96b-5767018588d2/full) |
 | 5 | Relatório de Política Monetária | Relatório técnico | [acessar](https://www.bcb.gov.br/publicacoes/rpm) |
+
+# 📄 Resultados das Perguntas
+
+Todas as respostas geradas pelo NotebookLM durante os testes podem ser acessadas no PDF abaixo:
+
+🔗 [acessar respostas completas](resultados/perguntas.pdf)
+
+📌 O arquivo contém:
+- Perguntas sem restrições
+- Perguntas com restrições
+- Testes de argumentação
+- Testes de possíveis alucinações
+- Respostas completas geradas pelo NotebookLM
 
 # 📝 Resumos sobre o NotebookLM
 
