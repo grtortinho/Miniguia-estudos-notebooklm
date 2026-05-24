@@ -191,10 +191,6 @@ Além da educação formal, a educação financeira ajuda as famílias a adminis
 
 Os bancos podem criar programas educativos, cursos e plataformas digitais que ensinem planejamento financeiro, investimentos e controle de gastos.
 
-### 📄 Transparência nos contratos
-
-As instituições financeiras devem apresentar informações mais claras sobre juros, taxas e condições de pagamento.
-
 ### ⚖️ Crédito mais responsável
 
 Os bancos podem evitar conceder limites acima da capacidade de pagamento do cliente.
